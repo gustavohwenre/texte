@@ -1,1 +1,2 @@
-# texte
+# texte 
+theme:minima
